@@ -1,0 +1,23 @@
+#letter {
+  display: none;
+}
+
+#blanks {
+    margin-bottom: 1.5em;
+}
+
+.form-group {
+  width: 50%;
+}
+
+h3 {
+  padding-bottom: 1.5em;
+}
+
+.letter {
+    text-indent: 50px;
+}
+
+#best {
+  text-align: right;
+}
