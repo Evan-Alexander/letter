@@ -1,10 +1,9 @@
-# form-bel-air
-made a form substituting for lyrics in a famous opening song
+# letter
+made a form that, when filled out, makes it look like a letter is addressed to them
 
 ## Setup/Installation Requirements
 
 * Copy repository link
-* From terminal - $ git clone {repository url}*
 *  - Clone this repository and then open 'index.html' in the browser. 
 
 ## No known bugs exist
@@ -15,10 +14,10 @@ made a form substituting for lyrics in a famous opening song
 
 * Please feel free to contact me through Github or email located on my site.
 
-## Technologies Used 
+## Technologies Used
 
 * Other than HTML and CSS -
-Bootstrap and Jquery files are included for additional styling and functionality. 
+Bootstrap and Jquery files are included for additional styling and functionality.
 
 ### License
 
